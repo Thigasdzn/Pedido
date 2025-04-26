@@ -18,32 +18,27 @@
       justify-content: center;
       align-items: center;
     }
-
     .coracao {
       font-size: 50px;
       color: red;
       margin-bottom: 10px;
     }
-
     .texto {
       font-size: 20px;
       margin-bottom: 20px;
     }
-
     .botoes {
       position: relative;
       width: 100%;
       max-width: 300px;
       height: 100px;
     }
-
     button {
       padding: 8px 16px;
       font-size: 16px;
       margin: 10px;
       cursor: pointer;
     }
-
     #nao {
       position: absolute;
     }
